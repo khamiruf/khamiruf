@@ -1,7 +1,7 @@
 ### Yellow! :cowboy_hat_face:
 
-⚙️ Tech stacks: .go, .js, .py, .java
-📫 Reach me: https://twitter.com/khamiruf
+- ⚙️ Tech stacks: .go, .js, .py, .java
+- 📫 Reach me: https://twitter.com/khamiruf
 
 <!--
 **khamiruf/khamiruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
