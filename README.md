@@ -1,5 +1,5 @@
 ### Yellow! :cowboy_hat_face:
-<u>currently, just head banging</u>
+Currently, just head banging...
 ![Alt Text](https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif)
 
 Deep Diving into:
