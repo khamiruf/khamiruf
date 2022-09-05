@@ -1,7 +1,7 @@
 ### Yellow! :cowboy_hat_face:
-<p align="center">Currently, head banging</p>
+<p align="center">Currently, head banging
 
-![Alt Text](https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif)
+![Alt Text](https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif)</p>
 
 - ⚙️ Tech stacks: .go, .js, .py, .java
 - 📫 Reach me: https://twitter.com/khamiruf
