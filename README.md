@@ -12,10 +12,10 @@ Potentially Curious about:
 
 - ⚙️ Tech stacks: .go, .js, .py, .java
 - 📫 Reach me: 
-<a href="[https://twitter.com/MohitCh57795811](https://twitter.com/khamiruf)">
+&ensp;<a href="[https://twitter.com/MohitCh57795811](https://twitter.com/khamiruf)">
   <img align="left" alt="Khamiruf's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/khairul-amiruf/">
+&ensp;<a href="https://www.linkedin.com/in/khairul-amiruf/">
   <img align="left" alt="Khamiruf's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
