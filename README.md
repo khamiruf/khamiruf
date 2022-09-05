@@ -6,7 +6,7 @@ Deep Diving into:
 - <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg" alt="golang" width="30"/> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" alt="ts" width="30"/> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="js" width="30"/>
 
 Potentiall Curious about:
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/rust.svg" alt="rust" width="30"/>
++ <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/rust.svg" alt="rust" width="30"/>
 
 
 - ⚙️ Tech stacks: .go, .js, .py, .java
