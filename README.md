@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif)
 
 Deep Diving into:
-- <img src="[https://go.dev/](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg)">
+- ![Golang](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg)
 
 - ⚙️ Tech stacks: .go, .js, .py, .java
 - 📫 Reach me: https://twitter.com/khamiruf
