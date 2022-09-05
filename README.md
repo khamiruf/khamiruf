@@ -1,5 +1,7 @@
 ### Yellow! :cowboy_hat_face:
 
+![Alt Text](https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif)
+
 - ⚙️ Tech stacks: .go, .js, .py, .java
 - 📫 Reach me: https://twitter.com/khamiruf
 
