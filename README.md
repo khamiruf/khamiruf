@@ -1,10 +1,9 @@
 ### Yellow! :cowboy_hat_face:
-<p align="center">Currently, head banging
-
-![Alt Text](https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif)</p>
+<u>currently, just head banging</u>
+![Alt Text](https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif)
 
 Deep Diving into:
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+- <img src="[https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg)">
 
 - ⚙️ Tech stacks: .go, .js, .py, .java
 - 📫 Reach me: https://twitter.com/khamiruf
