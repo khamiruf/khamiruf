@@ -12,7 +12,7 @@ Currently, just head banging...
 - ⚙️ Tech stacks: .go, .js, .py, .java
 
 ### Reach me 📫: 
-<a href="[https://twitter.com/MohitCh57795811](https://twitter.com/khamiruf)">
+<a href="https://twitter.com/khamiruf">
   <img align="left" alt="Khamiruf's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/khairul-amiruf/">
