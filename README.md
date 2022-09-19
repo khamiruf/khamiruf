@@ -9,7 +9,7 @@ Currently, just head banging...
 **Deep Diving into**:
 - .go, .ts, .rs
 
-- ⚙️ Tech stacks: .go, .js, .py, .java
+- ⚙️ Tech stacks: .go, .js, .py
 
 ### Reach me 📫: 
 <a href="https://twitter.com/khamiruf">
