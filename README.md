@@ -7,7 +7,7 @@ Currently, just head banging...
 ### Glad to see you here! 🤩 &nbsp;
 
 **Deep Diving into**:
-- .go, .ts, .rs
+- .go, .ts, .rs, .rb
 
 - ⚙️ Tech stacks: .go, .js, .py
 
